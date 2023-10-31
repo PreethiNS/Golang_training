@@ -3,6 +3,7 @@ What is Programming?
 
 
 Typical steps in programming world:
+
     Define the Problem
     Plan Your Solution
     Select a Programming Language
@@ -19,6 +20,7 @@ Typical steps in programming world:
 
 Your code to machine code:
     The process of translating English statements or any high-level programming language into machine-understandable code, which ultimately consists of 0's and 1's, involves several steps:
+    
             1.High-Level Language Code
             2.Compilation/Interpretation
             3.Intermediate Code
