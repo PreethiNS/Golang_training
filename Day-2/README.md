@@ -31,11 +31,11 @@ It's a web-based platform that enables users to experiment with the Go programmi
 
 Key features:
 
-1.Coding Environment
-2.Execution
-3.Error Checking
-4.Sharing
-5.Learning
+       1.Coding Environment
+       2.Execution
+       3.Error Checking
+       4.Sharing
+       5.Learning
 
 ---------------------------------------------------------------------------------------------------------
 Variables:
