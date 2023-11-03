@@ -48,3 +48,11 @@ Three ways of decalring variable:
     1.Using Var
     2.Using Type inference with var
     3.short variable decalration
+
+---------------------------------------------------------------------------------------------------------
+
+Basic Go commands:
+
+        1. Run Go program - go run main.go
+        2. Intialize module - go mod init <repository_path/module_name> 
+                ex: github.com/git_user_name/example
