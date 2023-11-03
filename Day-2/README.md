@@ -20,6 +20,20 @@ Main function
         *The main function is defined as follows: func main() { ... }.
 
 ---------------------------------------------------------------------------------------------------------
+Go Playground:
+
+The Go Playground is an online environment that allows you to write, run, and share Go code without installing any software. 
+It's a web-based platform that enables users to experiment with the Go programming language.
+
+Key features:
+
+1.Coding Environment
+2.Execution
+3.Error Checking
+4.Sharing
+5.Learning
+
+---------------------------------------------------------------------------------------------------------
 Variables:
 
 In Go, a variable is a container for storing data. Variables allow you to store and manipulate values such as numbers, text, and more within your program.
