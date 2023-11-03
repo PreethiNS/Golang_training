@@ -17,8 +17,9 @@ Types of Variables:
 
 Constants:
 
-Constants are variables whose values cannot be changed once they are assigned. They are often used for values that should not be modified during program execution.
-Constants can be local or package-level and are declared using the const keyword.
+           Constants are variables whose values cannot be changed once they are assigned. They are often used for values that should not be modified during 
+           program execution.
+           Constants can be local or package-level and are declared using the const keyword.
 
 ---------------------------------------------------------------------------------------------------------
 
