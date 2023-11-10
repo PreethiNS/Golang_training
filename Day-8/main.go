@@ -35,6 +35,12 @@ func main() {
 	fmt.Println("Element 0:", numbers[0])
 	fmt.Println("Element 1:", numbers[1])
 
+	//for-range loop iterate over array numbers
+	for in, val := range numbers {
+		fmt.Printf("The index %d and The value %d ", in, val)
+	}
+	fmt.Println()
+
 	//Decalre and intialize in same line
 	a := [4]int{1, 2, 3, 4}
 	fmt.Println("the first element in array a is : ", a[0])
@@ -69,6 +75,7 @@ func main() {
 
 	// Printing slice elements
 	fmt.Println("Slice elements:")
+	//for-range loop to iterate over slice m
 	for i, num := range m {
 		fmt.Printf("Element %d: %d\n", i, num)
 	}
