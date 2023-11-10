@@ -6,7 +6,7 @@ import (
 	"github.com/PreethiNS/Variables/package1"
 )
 
-// 2.Package level variable
+// 2.Package level variable - non exported(the name starts with small case)
 var package_var int = 30
 
 func main() {
